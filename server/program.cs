@@ -10,9 +10,7 @@ Console.WriteLine("4 — Выход");
 Console.Write("Введите номер пункта: ");
 string choice = Console.ReadLine();
 if (choice == "1")
-{
-Console.WriteLine($"ФИО: Иванов Иван Иванович");
-}
+{Console.WriteLine($"ФИО: Иванов Иван Иванович");}
 else if (choice == "2")
 {Console.WriteLine($"Группа: ИСП-244");}
 else if (choice == "3")
