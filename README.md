@@ -59,7 +59,7 @@ $$
 ## Скриншоты из папки repo
 ![Push screenshot](/repo/browser_Domracheva.png)
 ![Push screenshot](/repo/backend_Domracheva.png)
-![Push screenshot](/repo/terminal_Domracheva.png)
+![Push screenshot](/repo/terminal.png)
 ![Push screenshot](/repo/git_Domracheva.png)
 
 ## Заключение 
