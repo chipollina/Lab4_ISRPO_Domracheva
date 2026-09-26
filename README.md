@@ -57,10 +57,10 @@ $$
 [GitHub](https://github.com/chipollina/Lab4_ISRPO_Domracheva.git)
 
 ## Скриншоты из папки repo
-![Push screenshot](/repo/browser_Domracheva.png)
-![Push screenshot](/repo/backend_Domracheva.png)
-![Push screenshot](/repo/terminal.png)
-![Push screenshot](/repo/git_Domracheva.png)
+![Push screenshot](repo/browser_Domracheva.png)
+![Push screenshot](repo/backend_Domracheva.png)
+![Push screenshot](repo/terminal_Domracheva.png)
+![Push screenshot](repo/git_Domracheva.png)
 
 ## Заключение 
 В ходе работы были закреплены навыки работы с Git, Markdown, терминалом и структурой проекта.
